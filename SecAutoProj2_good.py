@@ -28,3 +28,4 @@ print('Total number of ip packets: ', ipcounter)
 print('Total number of tcp packets: ', tcpcounter)
 print('Total number of udp packets: ', udpcounter)
 
+#stackoverflow.com;  Parsing a pcap file in python [duplicate];  Roberts, Matt;  August 15, 2013
